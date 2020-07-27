@@ -10,7 +10,8 @@
     "operator-linebreak": "off",
     "comma-dangle": "off",
     "comma-style": "off",
-    "semi": "off"
+    "semi": "off",
+    "max-len": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
